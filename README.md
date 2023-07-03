@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 🙆🏾‍♀️
+
+My name is Sasha and I'm currently learning Full Stack Development.
+I have with a passion for Frontend, an eye for design and enjoy doing anything Javascript related.
+
+## 🖨️ Technologies & Tools
 
 <!--
 **sasha-valderrama/sasha-valderrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
