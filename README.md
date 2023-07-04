@@ -1,4 +1,4 @@
-# **Hi there, I'm Sasha Valderrama** 🙆🏾‍♀️
+# ✨ **Hi there, I'm Sasha Valderrama** 🧙‍♀️ ✨
 
 I am a web developer with a passion for Frontend and design. 
 
