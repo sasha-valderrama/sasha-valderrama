@@ -6,4 +6,4 @@ I **love** learning new technologies and doing anything Javascript related.
 
 ## 🖨️ Technologies & Tools
 
-#html, #css, #JavaScript, #react, #nextjs, #typescript, #nodejs , #git 
+#html, #css, #JavaScript, #react, #sass, #nodejs, #git 
